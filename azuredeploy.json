@@ -10,7 +10,7 @@
          "No"
          ],
          "metadata":{
-            "description":"Whether or not to deploy a VPN Gateway in the Hub"
+            "description":"Whether or not to deploy a VPN Gateway in the Hub vNet"
          }
       },
       "gatewaySku":{
